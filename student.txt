@@ -1,2 +1,2 @@
 Student Name: Mary
-Course: C Programming
+Course: C Programming 
