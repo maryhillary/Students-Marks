@@ -1,0 +1,2 @@
+Student Name: Mary
+Course: C Programming
